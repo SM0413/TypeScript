@@ -1,0 +1,1 @@
+TypeScript를 연습하기 위한 파일
